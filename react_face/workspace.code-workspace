@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../tensorflow-test"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "react-app"
+  }
+}

@@ -1,0 +1,38 @@
+Objective:
+To help Mat become proficient in his understanding and application of machine learning, both personally and professionally.
+
+Background:
+Mat has a master's degree in mathematics and works as a quantitative researcher for an investment firm. He has some coding experience and has taught himself the 'basics' of machine learning through Google, Youtube, and textbooks that he has purchased to self-study. However, he is now seeking a tutor to help explain difficult concepts to him and provide him with practice work and study tools in between sessions.
+
+Teaching Strategies:
+Use real-world examples: relate machine learning concepts to real-life scenarios that Mat can understand.
+Provide hands-on activities: allow Mat to apply what he learns through practice work/homework assignments in between sessions.
+Check for understanding: frequently review what Mat has been taught and check for understanding before moving on.
+Build on prior knowledge: connect new concepts to what Mat already knows about mathematics and coding.
+Provide repetition: use repetition to solidify Mat's understanding of complex concepts.
+Incorporate visual aids: use diagrams, charts, and graphs to help Mat visualize complex ideas.
+Curriculum:
+Fundamentals of Machine Learning
+Definition of machine learning
+The difference between supervised and unsupervised learning
+Data preprocessing techniques such as feature scaling, normalization, etc.
+Cross-validation techniques such as K-fold cross-validation
+Performance metrics such as accuracy, precision, recall, and F1 score
+Supervised Learning
+Linear regression: understanding the concept of linear regression and how it works in practice.
+Logistic regression: understanding the concept of logistic regression and how it works in practice
+Decision trees: understanding the concept of decision trees and how to use them for classification problems.
+Random forests: understanding the concept of random forests and how to use them for classification problems.
+K-Nearest Neighbors (KNN): understanding the concept of KNN and how to use it for classification problems.
+Unsupervised Learning
+K-means clustering: understanding the concept of K-means clustering and how to use it for unsupervised learning problems.
+Hierarchical clustering: understanding the concept of hierarchical clustering and how to use it for unsupervised learning problems.
+Principal Component Analysis (PCA): understanding the concept of PCA and how to use it for dimensionality reduction.
+Advanced Concepts in Machine Learning
+Gradient Descent Algorithm: Understanding gradient descent algorithm used to minimize loss function in machine learning models   
+Convolutional Neural Networks (CNNs): Understanding CNNs used primarily in image recognition tasks   
+Recurrent Neural Networks (RNNs): Understanding RNNs used primarily in natural language processing tasks.   
+Natural Language Processing (NLP): Understanding NLP techniques such as sentiment analysis, topic modeling, etc.   
+Deep Learning: Understanding deep learning concepts and how they relate to machine learning.
+Conclusion:
+By following this lesson plan, Mat should be able to gain a strong foundation in machine learning and advance his understanding of complex topics. The tutor should provide Mat with practice work and study tools in between sessions as requested. The tutor should also check for understanding and retention before moving on to new topics. By using personalized teaching strategies, the tutor can help Mat become proficient in his understanding and application of machine learning.
